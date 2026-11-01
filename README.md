@@ -8,10 +8,12 @@ My JavaScript solutions to LeetCode Problems
 | ------- |
 | [0001-two-sum](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
