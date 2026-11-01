@@ -29,6 +29,7 @@ My JavaScript solutions to LeetCode Problems
 | [0013-roman-to-integer](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -91,4 +92,12 @@ My JavaScript solutions to LeetCode Problems
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
