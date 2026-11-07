@@ -11,6 +11,7 @@ My JavaScript solutions to LeetCode Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ My JavaScript solutions to LeetCode Problems
 | ------- |
 | [0009-palindrome-number](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NamrathaM06/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
